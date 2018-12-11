@@ -242,7 +242,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 241;Australian DFAT;WASH;Non-Food Items;Hygiene Kit;1432;143201;;Finished;281;families
 242;Australian DFAT;WASH;Non-Food Items;Jerry Cans;1432;143201;;Finished;281;families
 243;Australian DFAT;Relief;Non-Food Items;Tarpaulins;1432;143201;;Finished;281;families
-244;Philippine Red Cross;Relief;Food Items;Food Items (Standard);1432;143201;Gawa-an;Finished;197;families
+244;PRC;Relief;Food Items;Food Items (Standard);1432;143201;Gawa-an;Finished;197;families
 245;PRC;Assessment;Assessment;RDANA;1427;142701;;Finished;1;area
 246;PRC;Assessment;Assessment;RDANA;133;13306;;Finished;1;area
 247;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;1401;140101;;Finished;50;families
@@ -489,7 +489,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 491;IFRC;Health;PSS;PSP;1411;141106;Ucab;Finished;122;individuals
 492;IFRC;Health;PSS;PSP;1411;141106;Ucab;Finished;44;individuals
 493;IFRC;WASH;Sanitation;Payloader;1411;141106;Midas;Finished;;
-494;Spanish Red Cross-AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141106;Ucab;Finished;346;individuals
+494;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141106;Ucab;Finished;346;individuals
 495;IFRC;Health;PSS;PSP;1411;141106;Ucab;Finished;81;individuals
 496;IFRC;Health;PSS;PSP;1411;141106;Ucab;Finished;60;individuals
 497;IFRC;WASH;Sanitation;Payloader;1411;141106;Midas;Finished;;
@@ -515,7 +515,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 517;IFRC;Relief;Non-Food Items;Tarpaulins;1411;141107;Poblacion;Finished;186;families
 518;PRC;Health;PSS;PSP;1411;141107;Poblacion;Finished;228;individuals
 519;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141107;Poblacion;Finished;315;individuals
-520;Spanish Red Cross-AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141107;Poblacion;Finished;168;individuals
+520;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141107;Poblacion;Finished;168;individuals
 521;IFRC;Health;PSS;PSP;1411;141107;Poblacion;Finished;228;individuals
 522;IFRC;Health;PSS;PSP;1411;141107;Poblacion;Finished;8;individuals
 523;PRC Quirino Chapter;Relief;Food Items;Food Items (Standard);1481;148104;Poblacion;Finished;152;families
@@ -529,10 +529,10 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 531;PRC;Health;PSS;PSP;1411;141108;Lomon;Finished;116;individuals
 532;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141108;Lomon;Finished;412;individuals
 533;IFRC;Health;PSS;PSP;1411;141108;Poblacion;Finished;116;individuals
-534;Spanish Red Cross-AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141108;Poblacion;Finished;412;individuals
+534;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141108;Poblacion;Finished;412;individuals
 535;PRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mats);1427;142703;Tuplac;Finished;5;families
 536;PRC;Relief;Non-Food Items;Sleeping Kit (Blankets);1427;142703;Tuplac;Finished;15;families
-537;Spanish Red Cross-AECID;Relief;Food Items;Food Items (Standard);1411;141109;Poblacion;Finished;110;families
+537;Spanish Red Cross - AECID;Relief;Food Items;Food Items (Standard);1411;141109;Poblacion;Finished;110;families
 538;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141110;Wangal;Finished;40;individuals
 539;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141110;;Finished;51;individuals
 540;IFRC;Health;PSS;PSP;1411;141110;Alapang;Finished;127;individuals
@@ -635,8 +635,8 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 638;PRC;Relief;Ready-to-Eat;Bread;369;36909;Baquero Sur;Finished;184;individuals
 639;PRC;Relief;Ready-to-Eat;Bread;369;36909;Poblacion;Finished;29;individuals
 640;PRC;Assessment;Assessment;RDANA;129;12914;;Finished;1;area
-641;Philippine Red Cross;Relief;Food Items;Food Items (Standard);1444;144405;Sta. Isabel;finished;24;families
-642;Philippine Red Cross;Relief;Food Items;Food Items (Standard);1444;144405;Tonglayan;finished;5;families
+641;PRC;Relief;Food Items;Food Items (Standard);1444;144405;Sta. Isabel;finished;24;families
+642;PRC;Relief;Food Items;Food Items (Standard);1444;144405;Tonglayan;finished;5;families
 643;PRC;WASH;Non-Food Items;Hygiene Kit;1444;144405;Ap-Apawan;finished;22;individuals
 644;Spanish Red Cross;WASH;Hygiene Promotion;Hygiene Promotion;1444;144405;Ap-Apawan;finished;22;individuals
 645;PRC;Assessment;Assessment;RDANA;128;12814;;Finished;1;area
@@ -666,7 +666,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 669;PRC;Relief;Ready-to-Eat;Bread;369;36910;Alupid;Finished;272;individuals
 670;PRC;Relief;Ready-to-Eat;Bread;369;36910;San Isidro;Finished;519;individuals
 671;PRC;Assessment;Assessment;RDANA;128;12816;;Finished;1;area
-672;Philippine Red Cross;Relief;Food Items;Food Items (Standard);1444;144406;Bacarri;finished;27;families
+672;PRC;Relief;Food Items;Food Items (Standard);1444;144406;Bacarri;finished;27;families
 673;PRC;Assessment;Assessment;RDANA;1444;144406;;Finished;1;area
 674;PRC;Assessment;Assessment;RDANA;128;12817;;Finished;1;area
 675;PRC;Assessment;Assessment;RDANA;1432;143208;;Finished;1;area
@@ -814,7 +814,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 817;PRC;WASH;Non-Food Items;Jerry Cans;1411;141113;Camp 4-6;Finished;168;families
 818;PRC;Assessment;Assessment;RDANA;1411;141113;;Finished;1;area
 819;Unknown;Health;PSS;PSP;1411;141113;Tadiangan;Finished;87;individuals
-820;Spanish Red Cross-AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141113;Nangalisan;Finished;568;individuals
+820;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141113;Nangalisan;Finished;568;individuals
 821;IFRC;Health;PSS;PSP;1411;141113;Padcal;Finished;26;individuals
 822;IFRC;Health;PSS;PSP;1411;141113;Tadiangan;Finished;75;individuals
 823;Unknown;Health;PSS;PSP;1411;141113;Tadiangan;Finished;87;individuals
@@ -825,8 +825,8 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 828;PRC;Relief;Non-Food Items;Sleeping Kit (Blankets);1411;141114;Ambassador;Finished;55;families
 829;PRC;WASH;Sanitation;Clearing operations;1411;141114;Daclan;Finished;1;community
 830;Rayomar Outreach Foundation;Relief;Food Items;Food Items (Assorted);1411;141114;Daclan;Finished;300;families
-831;Spanish Red Cross-AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141114;Daclan;Finished;275;individuals
-832;Spanish Red Cross-AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141114;Ambongdulan;Finished;118;individuals
+831;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141114;Daclan;Finished;275;individuals
+832;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141114;Ambongdulan;Finished;118;individuals
 833;PRC;Relief;Ready-to-Eat;Hot Meals;215;21529;Balzain East;Finished;132;individuals
 834;PRC;Health;PSS;PSP;215;21529;Balzain East;Finished;393;individuals
 835;PRC;Health ;Referral;Health Referral;215;21529;Balzain East;Finished;5;individuals
@@ -856,7 +856,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 859;PRC;Relief;Ready-to-Eat;Hot Meals;516;51612;Poblacion;Finished;528;individuals
 860;PRC;Health;PSS;PSP;516;51612;Poblacion;Finished;528;individuals
 861;PRC;Health;PSS;Welfare Desk;1401;;;Finished;;
-862;Spanish Red Cross-AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;;;Finished;13;volunteers
+862;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;;;Finished;13;volunteers
 866;PRC;Health;PSS;Welfare Desk;1427;;;Finished;;
 867;PRC;Health;PSS;Welfare Desk;128;;;Finished;;
 868;PRC;Health;PSS;Welfare Desk;129;;;Finished;;
