@@ -1,6 +1,6 @@
-# PRC dashboard (Ompong) - https://philippineredcross.github.io/Ompong_3W/
+# PRC dashboard (Usman) - https://philippineredcross.github.io/Usman_3W/
 
-Created by Denise Avelino
+Created by Denise Avelino, 20190102
 
 Based on Dashboard Updates by Kamal Ahmed, 09.02.2017
 
