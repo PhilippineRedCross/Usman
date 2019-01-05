@@ -1,88 +1,115 @@
 ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
 1;PRC;Relief;Ready-to-Eat;Hotmeals;848;84801;Jubasan;Finished;1300;individual
-2;PRC;Heath;Welfare;PSP;517;51701;San Vicente;Finished;1;individual
-3;PRC;Heath;Safety;Blood Pressure Taking;645;64501;;Finished;56;individual
-4;PRC;Heath;Safety;First Aid Station;645;64501;;Finished;1;station
-5;PRC;Heath;Welfare;Welfare Desk;645;64501;;Finished;1;station
+2;PRC;Health;Welfare;PSP;517;51701;San Vicente;Finished;1;individual
+3;PRC;Health;Safety;Blood Pressure Taking;645;64501;;Finished;56;individual
+4;PRC;Health;Safety;First Aid Station;645;64501;;Finished;1;station
+5;PRC;Health;Welfare;Welfare Desk;645;64501;;Finished;1;station
 6;PRC;Relief;Ready-to-Eat;Bread;645;64501;;Finished;800;individual
 7;PRC;Relief;Ready-to-Eat;Hotmeals;645;64501;;Finished;700;individual
 8;PRC;Relief;Food Items;Water Bottles;645;64501;;Finished;80;individual
 9;PRC;WASH;Water;Water;517;51705;Poblacion;Finished;491;families
 10;PRC;WASH;Water;Water;517;51705;Poblacion;Finished;;families
 11;PRC;Health;Safety;Ambulance Transport;517;51705;;Finished;3;individuals
-12;PRC;WASH;Water;Water;517;51706;San Isidro;Finished;198;families
-13;PRC;WASH;Water;Water;517;51706;San Agustin;Finished;126;families
-14;PRC;WASH;Water;Water;517;51706;San Ramon;Finished;105;families
-15;PRC;Relief;Water;Water;517;51706;San Ramon;Finished;105;families
-16;PRC;WASH;Non-Food Items;Hygiene Kits;860;86004;Baclayan;Finished;23;families
-17;PRC;WASH;Non-Food Items;Powdered Soap;860;86004;Baclayan;Finished;23;families
-18;PRC;Relief;Ready-to-Eat;Hotmeals;848;84805;;Finished;1284;individual
-19;PRC;Heath;Welfare;Welfare Desk;848;84805;;Finished;1;station
-20;PRC;Heath;Safety;Blood Pressure Taking;848;84805;;Finished;75;individual
-21;PRC;Relief;Food Items;Food Items (Standard);826;82604;San Jose;Finished;50;families
-22;PRC;Relief;Ready-to-Eat;Hotmeals;826;82604;Canjaway;Finished;29;individual
-23;PRC;Relief;Ready-to-Eat;Hotmeals;826;82604;Siha;Finished;59;individual
-24;PRC;Relief;Ready-to-Eat;Hotmeals;826;82604;San Mateo;Finished;65;individual
-25;PRC;Relief;Ready-to-Eat;Hotmeals;516;51603;;Finished;200;individual
-26;PRC;Relief;Ready-to-Eat;Hotmeals;516;51603;;Finished;37;individual
-27;PRC;Relief;Ready-to-Eat;Hotmeals;630;63018;;Finished;600;individual
-28;PRC;WASH;Water;Water;517;51716;Sagrada;Finished;200;families
-29;PRC;Heath;Welfare;PSP;505;50506;San Francisco;Finished;10;individual
-30;PRC;Relief;Ready-to-Eat;Hotmeals;864;86406;;Finished;150;individual
-31;PRC;Heath;Safety;First Aid Station;562;56212;;Finished;1;station
-32;PRC;Heath;Welfare;Welfare Desk;562;56212;;Finished;1;station
-33;PRC;Relief;Food Items;Food Items (Standard);517;51723;Sta Barbara;Finished;100;families
-34;PRC;WASH;Water;Water;517;51723;Sta.Barbara;Finished;227;families
-35;PRC;Relief;Food Items;Food Items (Standard);517;51723;San Isidro;Finished;50;families
-36;PRC;Relief;Ready-to-Eat;Hotmeals;837;83738;;Finished;40;individual
-37;PRC;Relief;Ready-to-Eat;Hotmeals;517;51727;;Finished;393;individual
-38;PRC;Heath;Safety;First Aid Station;517;51727;;Finished;1;station
-39;PRC;Heath;Welfare;Welfare Desk;517;51727;;Finished;1;station
-40;PRC;Relief;Ready-to-Eat;Hotmeals;517;51727;;Finished;76;individual
-41;PRC;Heath;Welfare;PSP;517;51731;Patiinan;Finished;2;individual
-42;PRC;Heath;Safety;First Aid Station;517;51731;;Finished;1;station
-43;PRC;Relief;Ready-to-Eat;Hotmeals;848;84818;;Finished;225;individual
-44;PRC;Relief;Ready-to-Eat;Hotmeals;722;72243;Hagnaya;Finished;900;individual
-45;PRC;Heath;Safety;First Aid Station;722;72243;Hagnaya;Finished;1;station
-46;PRC;Heath;Welfare;Welfare Desk;722;72243;Hagnaya;Finished;1;station
-47;PRC;Heath;Welfare;PSP;722;72243;Hagnaya;Finished;7;individual
-48;PRC;Heath;Safety;Blood Pressure Taking;722;72243;Hagnaya;Finished;22;individual
-49;PRC;Relief;Ready-to-Eat;Hotmeals;864;86415;;Finished;190;individual
-50;PRC;Heath;Welfare;PSP;562;56216;;Finished;1;individual
-51;PRC;Heath;Welfare;PSP;562;56216;;Finished;3;individuals
-52;PRC;SRR;MDM;Body Bags;517;;;Finished;6;individual
-53;PRC;Heath;Safety;First Aid;1667;166724;;Finished;1;individual
-54;PRC;Heath;Safety;First Aid Station;1667;166724;;Finished;1;station
-55;PRC;Heath;Welfare;Welfare Desk;1667;166724;;Finished;1;station
-56;PRC;Heath;Safety;Blood Pressure Taking;1667;166724;;Finished;15;individual
-57;PRC;Heath;Safety;First Aid;1667;166724;;Finished;1;individual
-58;PRC;Relief;Ready-to-Eat;Hotmeals;1667;166724;;Finished;134;individual
-59;PRC;Relief;Ready-to-Eat;Hotmeals;1667;166724;;Finished;20;individual
-60;PRC;SRR;MDM;Body Bags;505;50518;;Finished;10;units
-61;PRC;Heath;Welfare;PSP;505;50518;Bariis;Finished;9;individual
-62;PRC;Heath;Safety;First Aid;505;50518;Naga;Finished;3;individual
-63;PRC;Heath;Safety;Ambulance Transport;505;50518;Mayong;Finished;1;individual
-64;PRC;Heath;Safety;Ambulance Transport;505;50518;Maynonong;Finished;1;individual
-65;PRC;Heath;Welfare;PSP;505;50518;Bariis;Finished;7;individual
-66;PRC;Heath;Safety;First Aid;505;50518;Bariis;Finished;2;individual
-67;PRC;Assessment;Assessment;RDANA;505;50518;Bariis,Sugod, Joraon;Finished;3;areas
-68;PRC;Heath;Welfare;PSP;505;50518;Maynonong;Finished;16;individual
-69;PRC;Heath;Health;Doxycyclines;505;50518;Bariis;Finished;78;individual
-70;PRC;Heath;Safety;First Aid;505;50518;Maynonong;Finished;8;individual
-71;PRC;Assessment;Assessment;RDANA;505;50518;;Finished;1;area
-72;PRC;Heath;Safety;First Aid Station;505;50518;Maynonong;Finished;1;station
-73;PRC;Heath;Safety;First Aid Station;505;50518;Biriis;Finished;1;station
-74;PRC;Heath;Welfare;Welfare Desk;505;50518;;Finished;1;station
-75;PRC;SRR;MDM;Retrieved;505;50518;;Finished;11;individual
-76;PRC;SRR;MDM;Body Bags;505;50518;;Finished;10;individual
-77;PRC;Heath;Welfare;PSP;505;50518;Sugod;Finished;32;individual
-78;PRC;Relief;Ready-to-Eat;Hotmeals;505;50518;;Finished;90;individual
-79;PRC;Health;Health;Doxycyclines;505;50518;Brgy. Bariis;Finished;78;capsules
-87;PRC;Heath;Safety;First Aid;517;;;Finished;3;individual
-88;PRC;Relief;Ready-to-Eat;Hotmeals;517;;;Finished;59;individual
-89;PRC;Heath;Safety;Blood Pressure Taking;848;;;Finished;40;individual
-90;PRC;Heath;Safety;First Aid Station;1759;;;Finished;1;station
-91;PRC;Heath;Welfare;Welfare Desk;1759;;;Finished;1;station
-92;PRC;Heath;Safety;First Aid Station;864;;;Finished;1;station
-93;PRC;Heath;Welfare;Welfare Desk;864;;;Finished;1;station
-94;PRC;Heath;Safety;Blood Pressure Taking;864;;;Finished;28;individual
+12;PRC;WASH;WASH;Hygiene Promotion;517;51705;;Finished;660;individuals
+13;PRC;WASH;WASH;Hygiene Promotion;517;51705;;Finished;581;individuals
+14;PRC;WASH;Water;Water;517;51706;San Isidro;Finished;198;families
+15;PRC;WASH;Water;Water;517;51706;San Agustin;Finished;126;families
+16;PRC;WASH;Water;Water;517;51706;San Ramon;Finished;105;families
+17;PRC;Relief;Non-Food Items;Plastic Mat;562;56203;;Finished;31;families
+18;PRC;Relief;Non-Food Items;Clothing;562;56203;;Finished;31;families
+19;PRC;Relief;Non-Food Items;Plastic Mat;562;56203;;Finished;31;families
+20;PRC;WASH;Non-Food Items;Jerry Can;562;56203;;Finished;31;families
+21;PRC;WASH;Non-Food Items;Hygiene Kits;860;86004;Baclayan;Finished;23;families
+22;PRC;WASH;Non-Food Items;Powdered Soap;860;86004;Baclayan;Finished;23;families
+23;PRC;Relief;Ready-to-Eat;Hotmeals;848;84805;;Finished;1284;individual
+24;PRC;Health;Welfare;Welfare Desk;848;84805;;Finished;1;station
+25;PRC;Health;Safety;Blood Pressure Taking;848;84805;;Finished;75;individual
+26;PRC;Relief;Food Items;Food Items (Standard);826;82604;San Jose;Finished;50;families
+27;PRC;Relief;Ready-to-Eat;Hotmeals;826;82604;Canjaway;Finished;29;individual
+28;PRC;Relief;Ready-to-Eat;Hotmeals;826;82604;Siha;Finished;59;individual
+29;PRC;Relief;Ready-to-Eat;Hotmeals;826;82604;San Mateo;Finished;65;individual
+30;PRC;Relief;Ready-to-Eat;Hotmeals;516;51603;;Finished;200;individual
+31;PRC;Relief;Ready-to-Eat;Hotmeals;516;51603;;Finished;37;individual
+32;PRC;Relief;Ready-to-Eat;Hotmeals;630;63018;;Finished;600;individual
+33;PRC;WASH;Water;Water;517;51716;Sagrada;Finished;200;families
+34;PRC;WASH;WASH;Hygiene Promotion;517;51716;Sagrada;Finished;80;individuals
+35;PRC;Health;Welfare;PSP;505;50506;San Francisco;Finished;10;individual
+36;PRC;Relief;Ready-to-Eat;Hotmeals;864;86406;;Finished;150;individual
+37;PRC;Health;Safety;First Aid Station;562;56212;;Finished;1;station
+38;PRC;Health;Welfare;Welfare Desk;562;56212;;Finished;1;station
+39;PRC;Relief;Ready-to-Eat;Hotmeals;562;56212;;Finished;518;individuals
+40;PRC;Health;Welfare;PSP;562;56212;;Finished;145;individuals
+41;PRC;Health;Safety;Blood Pressure Taking;562;56212;;Finished;201;individuals
+42;PRC;WASH;Water;Water;517;51721;Poblacion;Finished;126;families
+43;PRC;WASH;Water;Water;517;51722;San Felipe;Finished;105;families
+44;PRC;WASH;Water;Water;517;51722;Del Rosario;Finished;116;families
+45;PRC;Relief;Food Items;Food Items (Standard);517;51723;Sta Barbara;Finished;100;families
+46;PRC;WASH;Water;Water;517;51723;Sta.Barbara;Finished;227;families
+47;PRC;Relief;Food Items;Food Items (Standard);517;51723;San Isidro;Finished;50;families
+48;PRC;WASH;WASH;Hygiene Promotion;517;51723;Sta. Barbara;Finished;50;individuals
+49;PRC;WASH;Water;Water;517;51723;San Jose;Finished;200;families
+50;PRC;WASH;Water;Water;517;51723;Bustrac;Finished;245;families
+51;PRC;WASH;WASH;Hygiene Promotion;517;51723;San Jose;Finished;183;individuals
+52;PRC;Health;Health;Health Promotion;517;51723;;Finished;740;individual
+53;PRC;Relief;Ready-to-Eat;Hotmeals;837;83738;;Finished;40;individual
+54;PRC;Relief;Ready-to-Eat;Hotmeals;517;51727;;Finished;393;individual
+55;PRC;Health;Safety;First Aid Station;517;51727;;Finished;1;station
+56;PRC;Health;Welfare;Welfare Desk;517;51727;;Finished;1;station
+57;PRC;Relief;Ready-to-Eat;Hotmeals;517;51727;;Finished;76;individual
+58;PRC;Health;Welfare;PSP;517;51731;Patitinan;Finished;2;individual
+59;PRC;Health;Safety;First Aid Station;517;51731;;Finished;1;station
+60;PRC;Health;Welfare;PSP;517;51731;Patitinan;Finished;25;individual
+61;PRC;Health;Welfare;PSP;517;51731;Patitinan;Finished;13;individual
+62;PRC;Health;Safety;First Aid;517;51731;Patitinan;Finished;4;individual
+63;PRC;Health;Safety;Blood Pressure Taking;517;51731;Patitinan;Finished;4;individual
+64;PRC;Health;Safety;Ambulance Transport;517;51731;Patitinan;Finished;1;individual
+65;PRC;Relief;Ready-to-Eat;Hotmeals;848;84818;;Finished;225;individual
+66;PRC;Relief;Ready-to-Eat;Hotmeals;722;72243;Hagnaya;Finished;900;individual
+67;PRC;Health;Safety;First Aid Station;722;72243;Hagnaya;Finished;1;station
+68;PRC;Health;Welfare;Welfare Desk;722;72243;Hagnaya;Finished;1;station
+69;PRC;Health;Welfare;PSP;722;72243;Hagnaya;Finished;7;individual
+70;PRC;Health;Safety;Blood Pressure Taking;722;72243;Hagnaya;Finished;22;individual
+71;PRC;Relief;Ready-to-Eat;Hotmeals;864;86415;;Finished;190;individual
+72;PRC;Health;Welfare;PSP;562;56216;;Finished;1;individual
+73;PRC;Health;Welfare;PSP;562;56216;;Finished;3;individuals
+74;PRC;Health;Safety;First Aid;1667;166724;;Finished;1;individual
+75;PRC;Health;Safety;First Aid Station;1667;166724;;Finished;1;station
+76;PRC;Health;Welfare;Welfare Desk;1667;166724;;Finished;1;station
+77;PRC;Health;Safety;Blood Pressure Taking;1667;166724;;Finished;15;individual
+78;PRC;Health;Safety;First Aid;1667;166724;;Finished;1;individual
+79;PRC;Relief;Ready-to-Eat;Hotmeals;1667;166724;;Finished;134;individual
+80;PRC;Relief;Ready-to-Eat;Hotmeals;1667;166724;;Finished;20;individual
+81;PRC;SRR;MDM;Body Bags;505;50518;;Finished;10;units
+82;PRC;Health;Welfare;PSP;505;50518;Bariis;Finished;9;individual
+83;PRC;Health;Safety;First Aid;505;50518;Naga;Finished;3;individual
+84;PRC;Health;Safety;Ambulance Transport;505;50518;Mayong;Finished;1;individual
+85;PRC;Health;Safety;Ambulance Transport;505;50518;Maynonong;Finished;1;individual
+86;PRC;Health;Welfare;PSP;505;50518;Bariis;Finished;7;individual
+87;PRC;Health;Safety;First Aid;505;50518;Bariis;Finished;2;individual
+88;PRC;Assessment;Assessment;RDANA;505;50518;Bariis,Sugod, Joraon;Finished;3;areas
+89;PRC;Health;Welfare;PSP;505;50518;Maynonong;Finished;16;individual
+90;PRC;Health;Health;Doxycyclines;505;50518;Bariis;Finished;78;individual
+91;PRC;Health;Safety;First Aid;505;50518;Maynonong;Finished;8;individual
+92;PRC;Assessment;Assessment;RDANA;505;50518;;Finished;1;area
+93;PRC;Health;Safety;First Aid Station;505;50518;Maynonong;Finished;1;station
+94;PRC;Health;Safety;First Aid Station;505;50518;Biriis;Finished;1;station
+95;PRC;Health;Welfare;Welfare Desk;505;50518;;Finished;1;station
+96;PRC;SRR;MDM;Retrieved;505;50518;;Finished;11;individual
+97;PRC;SRR;MDM;Body Bags;505;50518;;Finished;10;individual
+98;PRC;Health;Welfare;PSP;505;50518;Sugod;Finished;32;individual
+99;PRC;Relief;Ready-to-Eat;Hotmeals;505;50518;;Finished;90;individual
+100;PRC;Relief;Ready-to-Eat;Bread;505;50518;;Finished;1365;individuals
+101;PRC;Relief;Ready-to-Eat;Bread;505;50518;Bariis;Finished;1390;individuals
+102;PRC;Relief;Ready-to-Eat;Cup Noodles;505;50518;;Finished;73;families
+103;PRC;Health;Welfare;PSP;505;50518;;Finished;8;individual
+104;PRC;Health;Welfare;PSP;505;50518;Bariis;Finished;7;individual
+105;PRC;Relief;Non-Food Items;Dental kit;505;50518;;Finished;73;families
+113;PRC;Health;Safety;First Aid;517;;;Finished;3;individual
+114;PRC;SRR;MDM;Body Bags;517;;;Finished;6;individual
+115;PRC;Relief;Ready-to-Eat;Hotmeals;517;;;Finished;59;individual
+116;PRC;Health;Safety;Blood Pressure Taking;848;;;Finished;40;individual
+117;PRC;Health;Safety;First Aid Station;1759;;;Finished;1;station
+118;PRC;Health;Welfare;Welfare Desk;1759;;;Finished;1;station
+119;PRC;Health;Safety;First Aid Station;864;;;Finished;1;station
+120;PRC;Health;Welfare;Welfare Desk;864;;;Finished;1;station
+121;PRC;Health;Safety;Blood Pressure Taking;864;;;Finished;28;individual
