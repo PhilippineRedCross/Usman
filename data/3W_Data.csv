@@ -1,348 +1,411 @@
-ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
-1;PRC;Relief;Ready-to-Eat;Hotmeals;848;84801;Jubasan;Finished;1300;individuals
-2;PRC;Health;Welfare;PSP;517;51701;San Vicente;Finished;1;individuals
-3;IFRC;Assessment;Assessment;RDANA;517;51701;;Finished;3;areas
-4;PRC;Health;Safety;Blood Pressure Taking;645;64501;;Finished;56;individuals
-5;PRC;Health;Safety;First Aid Station;645;64501;;Finished;1;station
-6;PRC;Health;Welfare;Welfare Desk;645;64501;;Finished;1;station
-7;PRC;Relief;Ready-to-Eat;Bread;645;64501;;Finished;800;individuals
-8;PRC;Relief;Ready-to-Eat;Hotmeals;645;64501;;Finished;700;individuals
-9;PRC;Relief;Food Items;Water Bottles;645;64501;;Finished;80;individual
-10;PRC;WASH;Water;Water;517;51705;Poblacion;Finished;491;families
-11;PRC;WASH;Water;Water;517;51705;Poblacion;Finished;;families
-12;PRC;Health;Safety;Ambulance Transport;517;51705;;Finished;3;individuals
-13;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51705;;Finished;660;individuals
-14;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51705;;Finished;581;individuals
-15;PRC;WASH;Water;Water;517;51705;San Vicente;Finished;55;families
-16;PRC;WASH;Water;Water;517;51705;Poblacion;Finished;26;families
-17;PRC;WASH;Water;Water;517;51705;Sagrada;Finished;53;families
-18;IFRC;Assessment;Assessment;RDANA;517;51705;;Finished;3;areas
-19;IFRC;Relief;Non-Food Items;Clothing;517;51705;Iraya;Finished;105;families
-20;IFRC;WASH;Non-Food Items;Hygiene Kits;517;51705;Iraya;Finished;105;families
-21;IFRC;WASH;Non-Food Items;Jerry Can;517;51705;Iraya;Finished;105;families
-22;IFRC;Relief;Non-Food Items;Sleeping Kit: Plastic Mat;517;51705;Iraya;Finished;105;families
-23;IFRC;Relief;Non-Food Items;Sleeping Kit: Blanket;517;51705;Iraya;Finished;105;families
-24;IFRC;Relief;Non-Food Items;Sleeping Kit: Mosquito Net;517;51705;Iraya;Finished;105;families
-25;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51705;Iraya;Finished;525;individuals
-26;PRC;WASH;Water;Water;517;51705;Sagrada;Finished;50;families
-27;PRC;WASH;Water;Water;517;51705;Baybayon;Finished;160;families
-28;PRC;WASH;Water;Water;517;51705;Cabatuan;Finished;290;families
-29;PRC;WASH;Water;Water;517;51705;Sta. Clara;Finished;55;families
-30;PRC;WASH;Water;Water;517;51705;Salvacion;Finished;22;families
-31;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51705;Iraya;Finished;102;individuals
-32;PRC;Health;Welfare;PSP;517;51705;Sagrada;Finished;63;individuals
-33;PRC;Health;Welfare;PSP;517;51705;Iraya;Finished;76;individuals
-34;PRC;Health;Welfare;Play Therapy;517;51705;Sagrada;Finished;84;individuals
-35;PRC;Relief;Ready-to-Eat;Hotmeals;517;51705;Iraya;Finished;125;individuals
-36;PRC;Relief;Ready-to-Eat;Hotmeals;517;51705;Sagrada;Finished;148;individuals
-37;PRC;Health;Welfare;PSP;517;51705;Sagrada;Finished;63;individuals
-38;PRC;Health;Welfare;PSP;517;51705;Iraya;Finished;76;individuals
-39;PRC;Health;Welfare;Play Therapy;517;51705;Sagrada;Finished;84;individuals
-40;PRC;Health;Welfare;Play Therapy;517;51705;Iraya;Finished;63;individuals
-41;PRC;Health;Welfare;Film Showing;517;51705;Sagrada;Finished;15;individuals
-42;PRC;Health;Welfare;Film Showing;517;51705;Iraya;Finished;40;individuals
-43;PRC;Health;Safety;Blood Pressure Taking;517;51705;;Finished;19;individuals
-44;PRC;Health;Safety;Blood Pressure Taking;517;51705;Ipil;Finished;15;individuals
-45;PRC;Health;Safety;Ambulance Transport;517;51705;Ipil;Finished;11;individuals
-46;PRC;Health;Health;Health Promotion;517;51705;Sagrada;Finished;15;individual
-47;PRC;Health;Health;Health Promotion;517;51705;Iraya;Finished;148;individual
-48;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51705;Sagrada;Finished;15;individuals
-49;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51705;Iraya;Finished;148;individuals
-50;IFRC;WASH;Non-Food Items;Hygiene Kits;517;51705;Ipil;Finished;101;families
-51;PRC;Health;Health;Doxycyclines;517;51705;Iraya;Finished;15;individual
-52;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51705;Iraya;Finished;165;individuals
-53;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51705;San Isidro;Finished;20;individuals
-54;PRC;Health;Welfare;Referral;517;51705;Sagrada;Finished;6;individuals
-55;PRC;Health;Welfare;Referral;517;51705;Iraya;Finished;1;individuals
-56;PRC;Health;Welfare;PSP;517;51705;Iraya;Finished;60;individuals
-57;PRC;Health;Health;Medical Consultation;517;51705;Iraya;Finished;174;individuals
-58;PRC;WASH;Water;Water;517;51706;San Isidro;Finished;198;families
-59;PRC;WASH;Water;Water;517;51706;San Agustin;Finished;126;families
-60;PRC;WASH;Water;Water;517;51706;San Ramon;Finished;105;families
-61;IFRC;Assessment;Assessment;RDANA;517;51706;;Finished;3;areas
-62;PRC;WASH;Water;Water;517;51706;San Miguel;Finished;242;families
-63;PRC;WASH;Water;Water;517;51706;San Roque;Finished;84;families
-64;PRC;WASH;Water;Water;517;51706;San Roque;Finished;84;families
-65;PRC;WASH;Water;Water;517;51706;Umbao Polpog;Finished;210;families
-66;PRC;WASH;Water;Water;517;51706;San Roque;Finished;115;families
-67;PRC;WASH;Water;Water;517;51706;Umbao Polpog;Finished;210;families
-68;PRC;WASH;Water;Water;517;51706;San Roque;Finished;204;families
-69;PRC;WASH;Water;Water;517;51706;La Purisima;Finished;58;families
-70;PRC;WASH;Water;Water;517;51706;Umbao Polpog;Finished;210;families
-71;PRC;Relief;Food Items;Food Items (Standard);517;51706;Umbao Polpog;Finished;314;families
-72;IFRC;Relief;Non-Food Items;Clothing;517;51706;Umbao Polpog;Finished;214;families
-73;PRC;WASH;Water;Water;517;51706;San Roque;Finished;115;families
-74;PRC;WASH;Water;Water;517;51706;Umbao Polpog;Finished;210;families
-75;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51706;San Roque;Finished;28;individuals
-76;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51706;Umbao Polpog;Finished;37;individuals
-77;PRC;WASH;Water;Water;517;51706;Tambo;Finished;150;families
-78;PRC;WASH;Water;Water;517;51706;Tambo;Finished;150;families
-79;PRC;WASH;Water;Water;517;51706;La Purisima;Finished;72;families
-80;PRC;Relief;Non-Food Items;Slippers;517;51706;Tambo;Finished;91;individuals
-81;PRC;Health;Safety;Ambulance Transport;517;51706;Tambo;Finished;1;individuals
-82;PRC;WASH;Water;Water;517;51706;La Purisima;Finished;72;families
-83;PRC;WASH;Water;Water;517;51706;San Roque;Finished;115;families
-84;PRC;WASH;Water;Water;517;51706;Umbao Polpog;Finished;210;families
-85;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51706;San Roque;Finished;150;individuals
-86;PRC;WASH;Water;Water;517;51706;San Roque;Finished;115;families
-87;PRC;WASH;Water;Water;517;51706;Umbao Polpog;Finished;210;families
-88;PRC;WASH;Water;Water;517;51706;La Purisima;Finished;504;families
-89;PRC;Relief;Non-Food Items;Plastic Mat;562;56203;;Finished;31;families
-90;PRC;Relief;Non-Food Items;Clothing;562;56203;;Finished;31;families
-91;PRC;WASH;Non-Food Items;Jerry Can;562;56203;;Finished;31;families
-92;IFRC;Assessment;Assessment;RDANA;562;56203;;Finished;3;areas
-93;IFRC;Assessment;Assessment;RDANA;860;86003;;Finished;3;areas
-94;PRC;WASH;Non-Food Items;Hygiene Kits;860;86004;Baclayan;Finished;23;families
-95;PRC;WASH;Non-Food Items;Powdered Soap;860;86004;Baclayan;Finished;23;families
-96;IFRC;Assessment;Assessment;RDANA;517;51711;;Finished;3;areas
-97;IFRC;WASH;Non-Food Items;Jerry Can;517;51711;Tawog;Finished;167;families
-98;PRC;Relief;Ready-to-Eat;Bread;517;51711;Tawog;Finished;167;individuals
-99;PRC;Relief;Food Items;Water Bottles;517;51711;Tawog;Finished;167;individual
-100;PRC;Relief;Ready-to-Eat;Hotmeals;848;84805;;Finished;1284;individuals
-101;PRC;Health;Welfare;Welfare Desk;848;84805;;Finished;1;station
-102;PRC;Health;Safety;Blood Pressure Taking;848;84805;;Finished;75;individuals
-103;IFRC;Assessment;Assessment;RDANA;848;84805;;Finished;3;areas
-104;IFRC;Relief;Non-Food Items;Clothing;848;84805;;Finished;370;families
-105;PRC;Relief;Ready-to-Eat;Hotmeals;848;84805;Mabini;Finished;600;individuals
-106;PRC;Health;Welfare;PSP;848;84805;Mabini;Finished;60;individuals
-107;PRC;WASH;Hygiene Promotion;Hygiene Promotion;848;84805;Mabini;Finished;30;individuals
-108;PRC;Relief;Food Items;Food Items (Standard);826;82604;San Jose;Finished;50;families
-109;PRC;Relief;Ready-to-Eat;Hotmeals;826;82604;Canjaway;Finished;29;individuals
-110;PRC;Relief;Ready-to-Eat;Hotmeals;826;82604;Siha;Finished;59;individuals
-111;PRC;Relief;Ready-to-Eat;Hotmeals;826;82604;San Mateo;Finished;65;individuals
-112;PRC;Health;Welfare;PSP;562;56216;;Finished;1;individuals
-113;PRC;Health;Welfare;PSP;562;56216;;Finished;3;individuals
-114;PRC;Relief;Ready-to-Eat;Hotmeals;516;51603;;Finished;200;individuals
-115;PRC;Relief;Ready-to-Eat;Hotmeals;516;51603;;Finished;37;individuals
-116;PRC;Relief;Ready-to-Eat;Hotmeals;516;51603;;Finished;218;individuals
-117;PRC;WASH;Hygiene Promotion;Hygiene Promotion;516;51603;;Finished;218;individuals
-118;PRC;Relief;Ready-to-Eat;Hotmeals;516;51603;;Finished;218;individuals
-119;PRC;Relief;Ready-to-Eat;Hotmeals;630;63018;;Finished;600;individuals
-120;PRC;WASH;Water;Water;517;51716;Sagrada;Finished;200;families
-121;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51716;Sagrada;Finished;80;individuals
-122;IFRC;Assessment;Assessment;RDANA;517;51716;;Finished;3;areas
-124;PRC;Relief;Ready-to-Eat;Hotmeals;516;51606;;Finished;249;individuals
-125;PRC;Relief;Ready-to-Eat;Hotmeals;516;51606;;Finished;436;individuals
-126;PRC;WASH;Hygiene Promotion;Hygiene Promotion;516;51606;;Finished;249;individuals
-127;PRC;WASH;Hygiene Promotion;Hygiene Promotion;516;51606;;Finished;436;individuals
-128;PRC;Relief;Ready-to-Eat;Hotmeals;516;51606;;Finished;249;individuals
-129;PRC;Relief;Ready-to-Eat;Hotmeals;516;51606;;Finished;436;individuals
-130;PRC;Health;Welfare;PSP;505;50506;San Francisco;Finished;10;individuals
-131;PRC;Relief;Ready-to-Eat;Hotmeals;864;86406;;Finished;150;individuals
-132;IFRC;Assessment;Assessment;RDANA;848;84824;;Finished;3;areas
-133;PRC;Health;Welfare;PSP;848;84824;;Finished;16;individuals
-134;PRC;Health;Welfare;PSP;848;84824;Lower Caynaga;Finished;15;individuals
-135;PRC;Health;Safety;First Aid Station;562;56212;;Finished;1;station
-136;PRC;Health;Welfare;Welfare Desk;562;56212;;Finished;1;station
-137;PRC;Relief;Ready-to-Eat;Hotmeals;562;56212;;Finished;518;individuals
-138;PRC;Health;Welfare;PSP;562;56212;;Finished;145;individuals
-139;PRC;Health;Safety;Blood Pressure Taking;562;56212;;Finished;201;individuals
-140;IFRC;Assessment;Assessment;RDANA;562;56212;;Finished;3;areas
-141;PRC;WASH;Water;Water;517;51721;Poblacion;Finished;126;families
-142;IFRC;Assessment;Assessment;RDANA;517;51721;;Finished;3;areas
-143;PRC;WASH;Water;Water;517;51721;San Jose;Finished;70;families
-144;PRC;WASH;Water;Water;517;51721;Balagbag;Finished;156;families
-145;PRC;WASH;Water;Water;517;51721;Flordeliz;Finished;52;families
-146;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51721;Balagbag;Finished;30;individuals
-147;PRC;WASH;Water;Water;517;51721;Balagbag;Finished;60;families
-148;PRC;WASH;Water;Water;517;51722;San Felipe;Finished;105;families
-149;PRC;WASH;Water;Water;517;51722;Del Rosario;Finished;116;families
-150;IFRC;Assessment;Assessment;RDANA;517;51722;;Finished;3;areas
-151;PRC;WASH;Water;Water;517;51722;Del Rosario;Finished;160;families
-152;PRC;WASH;Water;Water;517;51722;San Francisco;Finished;35;families
-153;PRC;WASH;Water;Water;517;51722;Del Carmen;Finished;110;families
-154;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51722;Del Carmen;Finished;58;individuals
-155;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51722;San Francisco;Finished;38;individuals
-156;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51722;Del Rosario;Finished;54;individuals
-157;PRC;WASH;Water;Water;517;51722;San Juan;Finished;118;families
-158;PRC;WASH;Water;Water;517;51722;San Lorenzo;Finished;45;families
-159;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51722;San Juan;Finished;40;individuals
-160;PRC;Relief;Food Items;Food Items (Standard);517;51723;Sta Barbara;Finished;100;families
-161;PRC;WASH;Water;Water;517;51723;Sta.Barbara;Finished;227;families
-162;PRC;Relief;Food Items;Food Items (Standard);517;51723;San Isidro;Finished;50;families
-163;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51723;Sta. Barbara;Finished;50;individuals
-164;PRC;WASH;Water;Water;517;51723;San Jose;Finished;200;families
-165;PRC;WASH;Water;Water;517;51723;Bustrac;Finished;245;families
-166;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51723;San Jose;Finished;183;individuals
-167;PRC;Health;Health;Health Promotion;517;51723;;Finished;740;individual
-168;IFRC;Assessment;Assessment;RDANA;517;51723;;Finished;3;areas
-169;PRC;WASH;Water;Water;517;51723;La Purisima;Finished;504;families
-170;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51723;La Purisima;Finished;50;individuals
-171;PRC;WASH;Water;Water;517;51723;La Purisima;Finished;504;families
-172;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51723;La Purisima;Finished;40;individuals
-173;PRC;WASH;Water;Water;517;51723;La Purisima;Finished;72;families
-174;PRC;WASH;Water;Water;517;51723;Brgy. San Roque Madawon;Finished;204;families
-175;PRC;WASH;Water;Water;517;51723;San Isidro;Finished;30;families
-176;PRC;WASH;Water;Water;517;51723;Del Rosario;Finished;35;families
-177;PRC;WASH;Water;Water;517;51723;Brgy. Sta. Barbara;Finished;325;families
-178;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51723;San Sebastian;Finished;90;individuals
-179;PRC;WASH;Water;Water;517;51723;Sta. Barbara;Finished;227;families
-180;PRC;WASH;Water;Water;517;51723;San Esteban;Finished;307;families
-181;PRC;WASH;Water;Water;517;51723;San Vicente;Finished;90;families
-182;PRC;WASH;Water;Water;517;51723;Sto. Domingo;Finished;42;families
-183;PRC;WASH;Water;Water;517;51723;La Purisima;Finished;58;families
-184;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51723;San Vicente;Finished;35;individuals
-185;PRC;WASH;Water;Water;517;51723;San Roque;Finished;204;families
-186;PRC;WASH;Water;Water;517;51723;San Antonio;Finished;97;families
-187;PRC;WASH;Water;Water;517;51723;Sta. Cruz;Finished;210;families
-188;PRC;WASH;Water;Water;517;51723;Sta. Barbara;Finished;325;families
-189;PRC;WASH;Water;Water;517;51723;San Esteban;Finished;307;families
-190;PRC;WASH;Water;Water;517;51723;San Antonio;Finished;97;families
-191;PRC;WASH;Water;Water;517;51723;San Vicente;Finished;90;families
-192;PRC;WASH;Water;Water;517;51723;San Antonio;Finished;97;families
-193;PRC;WASH;Water;Water;517;51723;La Purisima;Finished;58;families
-194;PRC;WASH;Water;Water;517;51723;La Purisima;Finished;72;families
-195;PRC;WASH;Water;Water;517;51723;San Isidro;Finished;30;families
-196;PRC;WASH;Hygiene Promotion;Hygiene Promotion;517;51723;San Isidro;Finished;60;individuals
-197;PRC;WASH;Water;Water;517;51723;Sta. Barbara;Finished;227;families
-198;PRC;Relief;Non-Food Items;Clothing;517;51723;San Roque;Finished;150;families
-199;PRC;WASH;Non-Food Items;Hygiene kits;517;51723;San Roque;Finished;150;families
-200;PRC;Relief;Food Items;Water Bottles;517;51723;San Roque;Finished;150;individual
-201;PRC;WASH;Water;Water;517;51723;Sta. Barbara;Finished;227;families
-202;PRC;WASH;Water;Water;517;51723;San Esteban;Finished;;families
-203;PRC;Relief;Ready-to-Eat;Hotmeals;837;83738;;Finished;40;individuals
-204;PRC;Relief;Ready-to-Eat;Hotmeals;517;51727;;Finished;393;individuals
-205;PRC;Health;Safety;First Aid Station;517;51727;;Finished;1;station
-206;PRC;Health;Welfare;Welfare Desk;517;51727;;Finished;1;station
-207;PRC;Relief;Ready-to-Eat;Hotmeals;517;51727;;Finished;76;individuals
-208;PRC;Health;Welfare;PSP;517;51731;Patitinan;Finished;2;individuals
-209;PRC;Health;Safety;First Aid Station;517;51731;;Finished;1;station
-210;PRC;Health;Welfare;PSP;517;51731;Patitinan;Finished;25;individuals
-211;PRC;Health;Welfare;Play Therapy;517;51731;Patitinan;Finished;13;individuals
-212;PRC;Health;Safety;First Aid;517;51731;Patitinan;Finished;4;individual
-213;PRC;Health;Safety;Blood Pressure Taking;517;51731;Patitinan;Finished;4;individuals
-214;PRC;Health;Safety;Ambulance Transport;517;51731;Patitinan;Finished;1;individuals
-215;PRC;Relief;Food Items;Food Items (Standard);517;51731;Patitinan;Finished;153;families
-216;IFRC;WASH;Non-Food Items;Hygiene Kits;517;51731;Patitinan;Finished;158;families
-217;IFRC;WASH;Non-Food Items;Jerry Can;517;51731;Patitinan;Finished;153;families
-218;IFRC;Relief;Non-Food Items;Sleeping Kit: Plastic Mat;517;51731;Patitinan;Finished;153;families
-219;PRC;WASH;Water;Water;517;51731;Patitinan;Finished;150;families
-220;PRC;Health;Welfare;PSP;517;51731;Patitinan;Finished;3;individuals
-221;PRC;Health;Safety;Ambulance Transport;517;51731;Patitinan;Finished;1;individuals
-222;IFRC;Relief;Non-Food Items;Sleeping Kit: Blanket;517;51731;Patitinan;Finished;153;families
-223;IFRC;Relief;Non-Food Items;Sleeping Kit: Mosquito Net;517;51731;Patitinan;Finished;153;families
-224;IFRC;Assessment;Assessment;RDANA;517;51731;;Finished;3;areas
-225;PRC;SRR;MDM;SRR;517;51731;Patitinan;Finished;;
-226;PRC;Relief;Ready-to-Eat;Hotmeals;848;84818;;Finished;225;individuals
-227;PRC;Relief;Ready-to-Eat;Hotmeals;722;72243;Hagnaya;Finished;900;individuals
-228;PRC;Health;Safety;First Aid Station;722;72243;Hagnaya;Finished;1;station
-229;PRC;Health;Welfare;Welfare Desk;722;72243;Hagnaya;Finished;1;station
-230;PRC;Health;Welfare;PSP;722;72243;Hagnaya;Finished;7;individuals
-231;PRC;Health;Safety;Blood Pressure Taking;722;72243;Hagnaya;Finished;22;individuals
-232;PRC;Relief;Ready-to-Eat;Hotmeals;864;86415;;Finished;190;individuals
-233;PRC;Health;Safety;First Aid;1667;166724;;Finished;1;individual
-234;PRC;Health;Safety;First Aid Station;1667;166724;;Finished;1;station
-235;PRC;Health;Welfare;Welfare Desk;1667;166724;;Finished;1;station
-236;PRC;Health;Safety;Blood Pressure Taking;1667;166724;;Finished;15;individuals
-237;PRC;Health;Safety;First Aid;1667;166724;;Finished;1;individual
-238;PRC;Relief;Ready-to-Eat;Hotmeals;1667;166724;;Finished;134;individuals
-239;PRC;Relief;Ready-to-Eat;Hotmeals;1667;166724;;Finished;20;individuals
-240;PRC;SRR;MDM;Body Bags;505;50518;;Finished;10;pcs
-241;PRC;Health;Welfare;PSP;505;50518;Bariis;Finished;9;individuals
-242;PRC;Health;Safety;First Aid;505;50518;Naga;Finished;3;individual
-243;PRC;Health;Safety;Ambulance Transport;505;50518;Mayong;Finished;1;individuals
-244;PRC;Health;Safety;Ambulance Transport;505;50518;Maynonong;Finished;1;individuals
-245;PRC;Health;Welfare;PSP;505;50518;Bariis;Finished;7;individuals
-246;PRC;Health;Safety;First Aid;505;50518;Bariis;Finished;2;individual
-247;IFRC;Assessment;Assessment;RDANA;505;50518;Bariis;Finished;3;areas
-248;PRC;Health;Welfare;PSP;505;50518;Maynonong;Finished;16;individuals
-249;PRC;Health;Health;Doxycyclines;505;50518;Bariis;Finished;82;individual
-250;PRC;Health;Safety;First Aid;505;50518;Maynonong;Finished;8;individual
-251;IFRC;Assessment;Assessment;RDANA;505;50518;Sogod;Finished;1;area
-252;PRC;Health;Safety;First Aid Station;505;50518;Maynonong;Finished;1;station
-253;PRC;Health;Safety;First Aid Station;505;50518;Biriis;Finished;1;station
-254;PRC;Health;Welfare;Welfare Desk;505;50518;;Finished;1;station
-255;PRC;SRR;MDM;Retrieved;505;50518;;Finished;11;individual
-256;PRC;SRR;MDM;Body Bags;505;50518;;Finished;10;individual
-257;PRC;Health;Welfare;PSP;505;50518;Sugod;Finished;32;individuals
-258;PRC;Relief;Ready-to-Eat;Hotmeals;505;50518;;Finished;90;individuals
-259;PRC;Relief;Ready-to-Eat;Bread;505;50518;;Finished;1365;individuals
-260;PRC;Relief;Ready-to-Eat;Bread;505;50518;Bariis;Finished;1390;individuals
-261;PRC;Relief;Ready-to-Eat;Cup Noodles;505;50518;;Finished;73;families
-262;PRC;Health;Welfare;PSP;505;50518;;Finished;8;individuals
-263;PRC;Health;Welfare;PSP;505;50518;Bariis;Finished;7;individuals
-264;PRC;Relief;Non-Food Items;Dental kit;505;50518;;Finished;73;families
-265;IFRC;Relief;Non-Food Items;Sleeping Kit: Plastic Mat;505;50518;Naga ;Finished;213;families
-266;IFRC;WASH;Non-Food Items;Jerry Can;505;50518;Naga ;Finished;213;families
-267;IFRC;WASH;Non-Food Items;Hygiene Kits;505;50518;Naga ;Finished;213;families
-268;IFRC;Relief;Non-Food Items;Sleeping Kit: Blanket;505;50518;Naga ;Finished;213;families
-269;IFRC;Relief;Non-Food Items;Sleeping Kit: Mosquito Net;505;50518;Naga ;Finished;213;families
-270;PRC;Health;Welfare;PSP;505;50518;;Finished;14;individuals
-271;IFRC;Assessment;Assessment;RDANA;505;50518;Joroan;Finished;1;area
-272;IFRC;Assessment;Assessment;RDANA;505;50518;Lourdes;Finished;1;area
-273;IFRC;Assessment;Assessment;RDANA;505;50518;Maynonong;Finished;3;areas
-274;PRC;WASH;Water;Water;505;50518;Sogod;Finished;282;families
-275;PRC;WASH;Water;Water;505;50518;Naga;Finished;510;families
-276;PRC;WASH;Water;Water;505;50518;Sogod;Finished;282;families
-277;PRC;WASH;Water;Water;505;50518;Naga;Finished;510;families
-278;PRC;WASH;Water;Water;505;50518;Naga;Finished;141;families
-279;PRC;WASH;Water;Water;505;50518;Cararayan;Finished;44;families
-280;PRC;Health;Welfare;PSP;505;50518;Naga;Finished;5;individuals
-281;IFRC;WASH;Non-Food Items;Hygiene Kits;505;50518;Bariis;Finished;258;families
-282;IFRC;WASH;Non-Food Items;Hygiene Kits;505;50518;Sogod;Finished;28;families
-283;IFRC;WASH;Non-Food Items;Jerry Can;505;50518;Bariis;Finished;258;families
-284;IFRC;WASH;Non-Food Items;Jerry Can;505;50518;Sogod;Finished;28;families
-285;IFRC;Relief;Non-Food Items;Sleeping Kit: Plastic Mat;505;50518;Bariis;Finished;258;families
-286;IFRC;Relief;Non-Food Items;Sleeping Kit: Blanket;505;50518;Bariis;Finished;258;families
-287;IFRC;Relief;Non-Food Items;Sleeping Kit: Mosquito Net;505;50518;Bariis;Finished;258;families
-288;IFRC;Relief;Non-Food Items;Sleeping Kit: Plastic Mat;505;50518;Sogod;Finished;28;families
-289;IFRC;Relief;Non-Food Items;Sleeping Kit: Blanket;505;50518;Sogod;Finished;28;families
-290;IFRC;Relief;Non-Food Items;Sleeping Kit: Mosquito Net;505;50518;Sogod;Finished;28;families
-291;PRC;WASH;Water;Water;505;50518;Joroan;Finished;343;families
-292;PRC;WASH;Water;Water;505;50518;Joroan;Finished;343;families
-293;PRC;WASH;Water;Water;505;50518;Dapdap;Finished;282;families
-294;PRC;WASH;Water;Water;505;50518;Misibis;Finished;510;families
-295;PRC;WASH;Water;Water;505;50518;Cale;Finished;37;families
-296;PRC;WASH;Water;Water;505;50518;Misibis;Finished;510;families
-297;PRC;WASH;Water;Water;505;50518;Naga;Finished;216;families
-298;PRC;WASH;Water;Water;505;50518;Naga;Finished;111;families
-299;PRC;WASH;Water;Water;505;50518;Naga;Finished;57;families
-300;PRC;WASH;Water;Water;505;50518;Cararayan;Finished;57;families
-301;PRC;WASH;Water;Water;505;50518;Misibis;Finished;510;families
-302;PRC;WASH;Water;Water;505;50518;Naga;Finished;151;families
-303;PRC;WASH;Water;Water;505;50518;Cararayan;Finished;49;families
-304;PRC;WASH;Water;Water;505;50518;Misibis;Finished;300;families
-305;PRC;WASH;Water;Water;505;50518;Cararayan;Finished;44;families
-306;PRC;WASH;Water;Water;505;50518;Misibis;Finished;300;families
-307;PRC;WASH;Water;Water;505;50518;Naga;Finished;151;families
-308;PRC;WASH;Water;Water;505;50518;Cararayan;Finished;49;families
-309;PRC;WASH;Water;Water;505;50518;Cale;Finished;39;families
-310;PRC;WASH;Water;Water;505;50518;Naga;Finished;151;families
-311;PRC;WASH;Water;Water;505;50518;Cararayan;Finished;49;families
-312;PRC;WASH;Water;Water;505;50518;Cale;Finished;39;families
-313;PRC;WASH;Hygiene Promotion;Hygiene Promotion;505;50518;Naga;Finished;80;individuals
-314;PRC;WASH;Hygiene Promotion;Hygiene Promotion;505;50518;Cale;Finished;60;individuals
-315;PRC;Relief;Food Items;Food Items (Standard);505;50518;Maynonong;Finished;38;families
-316;PRC;Relief;Food Items;Food Items (Standard);505;50518;Maynonong;Finished;151;families
-317;PRC;WASH;Hygiene Promotion;Hygiene Promotion;505;50518;Naga;Finished;60;individuals
-318;PRC;WASH;Water;Water;505;50518;;Finished;39;families
-319;PRC;WASH;Water;Water;505;50518;Cararayan;Finished;49;families
-320;PRC;WASH;Water;Water;505;50518;Panal;Finished;150;families
-321;PRC;WASH;Water;Water;505;50518;Baybay;Finished;160;families
-322;PRC;WASH;Water;Water;505;50518;Naga;Finished;151;families
-323;PRC;WASH;Water;Water;505;50518;Panal;Finished;90;families
-324;PRC;WASH;Water;Water;505;50518;Cararayan;Finished;49;families
-325;PRC;WASH;Water;Water;505;50518;;Finished;39;families
-326;PRC;WASH;Water;Water;505;50518;Bagumbayan;Finished;85;families
-327;PRC;WASH;Water;Water;505;50518;Cararayan;Finished;49;families
-328;PRC;WASH;Water;Water;505;50518;;Finished;39;families
-329;PRC;WASH;Water;Water;505;50518;Naga;Finished;151;families
-330;PRC;Relief;Ready-to-Eat;Hotmeals;516;51612;;Finished;365;individuals
-331;PRC;WASH;Hygiene Promotion;Hygiene Promotion;516;51612;;Finished;365;individuals
-332;PRC;Relief;Ready-to-Eat;Hotmeals;516;51612;;Finished;365;individuals
-333;PRC;Health;Health;Doxycyclines;505;;;Finished;800;pcs
-335;PRC;Health;Health;Doxycyclines;516;;;Finished;800;pcs
-337;PRC;Health;Health;Doxycyclines;516;;;Finished;108;individual
-338;PRC;Health;Health;Doxycyclines;516;;;Finished;28;individual
-339;PRC;Health;Health;Doxycyclines;517;;;Finished;800;pcs
-340;PRC;SRR;MDM;Body Bags;517;;;Finished;10;pcs
-341;PRC;Health;Safety;First Aid;517;;;Finished;3;individual
-342;PRC;SRR;MDM;Body Bags;517;;;Finished;6;individual
-343;PRC;Relief;Ready-to-Eat;Hotmeals;517;;;Finished;59;individuals
-344;PRC;Health;Health;Doxycyclines;517;;;Finished;;individual
-345;PRC;Health;Safety;Blood Pressure Taking;848;;;Finished;40;individuals
-346;PRC;Health;Safety;First Aid Station;1759;;;Finished;1;station
-347;PRC;Health;Welfare;Welfare Desk;1759;;;Finished;1;station
-348;PRC;Health;Safety;First Aid Station;864;;;Finished;1;station
-349;PRC;Health;Welfare;Welfare Desk;864;;;Finished;1;station
-350;PRC;Health;Safety;Blood Pressure Taking;864;;;Finished;28;individuals
+ID,Organisation,Sector,Subsector,Service,Province_CODE,Municipality_CODE,Barangay,Status,Beneficiaries,Beneficiary_type
+1,PRC,Relief,Ready-to-Eat,Hotmeals,848,84801,Jubasan,Finished,1300,individuals
+2,PRC,Health,Welfare,PSP,517,51701,San Vicente,Finished,1,individuals
+3,IFRC,Assessment,Assessment,RDANA,517,51701,,Finished,3,areas
+4,PRC,Health,Safety,Blood Pressure Taking,645,64501,,Finished,56,individuals
+5,PRC,Health,Safety,First Aid Station,645,64501,,Finished,1,station
+6,PRC,Health,Welfare,Welfare Desk,645,64501,,Finished,1,station
+7,PRC,Relief,Ready-to-Eat,Bread,645,64501,,Finished,800,individuals
+8,PRC,Relief,Ready-to-Eat,Hotmeals,645,64501,,Finished,700,individuals
+9,PRC,Relief,Ready-to-Eat,Water Bottles,645,64501,,Finished,80,individual
+10,PRC,WASH,Water,Water,517,51705,Poblacion,Finished,491,families
+11,PRC,WASH,Water,Water,517,51705,Poblacion,Finished,,families
+12,PRC,Health,Safety,Ambulance Transport,517,51705,,Finished,3,individuals
+13,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51705,,Finished,660,individuals
+14,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51705,,Finished,581,individuals
+15,PRC,WASH,Water,Water,517,51705,San Vicente,Finished,55,families
+16,PRC,WASH,Water,Water,517,51705,Poblacion,Finished,26,families
+17,PRC,WASH,Water,Water,517,51705,Sagrada,Finished,53,families
+18,IFRC,Assessment,Assessment,RDANA,517,51705,,Finished,3,areas
+19,IFRC,Relief,Non-Food Items,Clothing,517,51705,Iraya,Finished,105,families
+20,IFRC,WASH,Non-Food Items,Hygiene Kits,517,51705,Iraya,Finished,105,families
+21,IFRC,WASH,Non-Food Items,Jerry Can,517,51705,Iraya,Finished,105,families
+22,IFRC,Relief,Non-Food Items,Sleeping Kit: Plastic Mat,517,51705,Iraya,Finished,105,families
+23,IFRC,Relief,Non-Food Items,Sleeping Kit: Blanket,517,51705,Iraya,Finished,105,families
+24,IFRC,Relief,Non-Food Items,Sleeping Kit: Mosquito Net,517,51705,Iraya,Finished,105,families
+25,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51705,Iraya,Finished,525,individuals
+26,PRC,WASH,Water,Water,517,51705,Sagrada,Finished,50,families
+27,PRC,WASH,Water,Water,517,51705,Baybayon,Finished,160,families
+28,PRC,WASH,Water,Water,517,51705,Cabatuan,Finished,290,families
+29,PRC,WASH,Water,Water,517,51705,Sta. Clara,Finished,55,families
+30,PRC,WASH,Water,Water,517,51705,Salvacion,Finished,22,families
+31,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51705,Iraya,Finished,102,individuals
+32,PRC,Health,Welfare,PSP,517,51705,Sagrada,Finished,63,individuals
+33,PRC,Health,Welfare,PSP,517,51705,Iraya,Finished,76,individuals
+34,PRC,Health,Welfare,Play Therapy,517,51705,Sagrada,Finished,84,individuals
+35,PRC,Relief,Ready-to-Eat,Hotmeals,517,51705,Iraya,Finished,125,individuals
+36,PRC,Relief,Ready-to-Eat,Hotmeals,517,51705,Sagrada,Finished,148,individuals
+37,PRC,Health,Welfare,PSP,517,51705,Sagrada,Finished,63,individuals
+38,PRC,Health,Welfare,PSP,517,51705,Iraya,Finished,76,individuals
+39,PRC,Health,Welfare,Play Therapy,517,51705,Sagrada,Finished,84,individuals
+40,PRC,Health,Welfare,Play Therapy,517,51705,Iraya,Finished,63,individuals
+41,PRC,Health,Welfare,Film Showing,517,51705,Sagrada,Finished,15,individuals
+42,PRC,Health,Welfare,Film Showing,517,51705,Iraya,Finished,40,individuals
+43,PRC,Health,Safety,Blood Pressure Taking,517,51705,,Finished,19,individuals
+44,PRC,Health,Safety,Blood Pressure Taking,517,51705,Ipil,Finished,15,individuals
+45,PRC,Health,Safety,Ambulance Transport,517,51705,Ipil,Finished,11,individuals
+46,PRC,Health,Health,Health Promotion,517,51705,Sagrada,Finished,15,individual
+47,PRC,Health,Health,Health Promotion,517,51705,Iraya,Finished,148,individual
+48,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51705,Sagrada,Finished,15,individuals
+49,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51705,Iraya,Finished,148,individuals
+50,IFRC,WASH,Non-Food Items,Hygiene Kits,517,51705,Ipil,Finished,101,families
+51,PRC,Health,Health,Doxycyclines,517,51705,Iraya,Finished,15,individual
+52,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51705,Iraya,Finished,165,individuals
+53,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51705,San Isidro,Finished,20,individuals
+54,PRC,Health,Welfare,Referral,517,51705,Sagrada,Finished,6,individuals
+55,PRC,Health,Welfare,Referral,517,51705,Iraya,Finished,1,individuals
+56,PRC,Health,Welfare,PSP,517,51705,Iraya,Finished,60,individuals
+57,PRC,Health,Health,Medical Consultation,517,51705,Iraya,Finished,174,individuals
+58,PRC,WASH,Water,Water,517,51706,San Isidro,Finished,198,families
+59,PRC,WASH,Water,Water,517,51706,San Agustin,Finished,126,families
+60,PRC,WASH,Water,Water,517,51706,San Ramon,Finished,105,families
+61,IFRC,Assessment,Assessment,RDANA,517,51706,,Finished,3,areas
+62,PRC,WASH,Water,Water,517,51706,San Miguel,Finished,242,families
+63,PRC,WASH,Water,Water,517,51706,San Roque,Finished,84,families
+64,PRC,WASH,Water,Water,517,51706,San Roque,Finished,84,families
+65,PRC,WASH,Water,Water,517,51706,Umbao Polpog,Finished,210,families
+66,PRC,WASH,Water,Water,517,51706,San Roque,Finished,115,families
+67,PRC,WASH,Water,Water,517,51706,Umbao Polpog,Finished,210,families
+68,PRC,WASH,Water,Water,517,51706,San Roque,Finished,204,families
+69,PRC,WASH,Water,Water,517,51706,La Purisima,Finished,58,families
+70,PRC,WASH,Water,Water,517,51706,Umbao Polpog,Finished,210,families
+71,PRC,Relief,Food Items,Food Items (Standard),517,51706,Umbao Polpog,Finished,314,families
+72,IFRC,Relief,Non-Food Items,Clothing,517,51706,Umbao Polpog,Finished,214,families
+73,PRC,WASH,Water,Water,517,51706,San Roque,Finished,115,families
+74,PRC,WASH,Water,Water,517,51706,Umbao Polpog,Finished,210,families
+75,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51706,San Roque,Finished,28,individuals
+76,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51706,Umbao Polpog,Finished,37,individuals
+77,PRC,WASH,Water,Water,517,51706,Tambo,Finished,150,families
+78,PRC,WASH,Water,Water,517,51706,Tambo,Finished,150,families
+79,PRC,WASH,Water,Water,517,51706,La Purisima,Finished,72,families
+80,PRC,Relief,Non-Food Items,Slippers,517,51706,Tambo,Finished,91,individuals
+81,PRC,Health,Safety,Ambulance Transport,517,51706,Tambo,Finished,1,individuals
+82,PRC,WASH,Water,Water,517,51706,La Purisima,Finished,72,families
+83,PRC,WASH,Water,Water,517,51706,San Roque,Finished,115,families
+84,PRC,WASH,Water,Water,517,51706,Umbao Polpog,Finished,210,families
+85,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51706,San Roque,Finished,150,individuals
+86,PRC,WASH,Water,Water,517,51706,San Roque,Finished,115,families
+87,PRC,WASH,Water,Water,517,51706,Umbao Polpog,Finished,210,families
+88,PRC,WASH,Water,Water,517,51706,La Purisima,Finished,504,families
+89,PRC,Relief,Non-Food Items,Assorted Slippers,517,51706,Ombao Polpog,Finished,172,individuals
+90,IFRC,Relief,Cash,"Multi-Purpose Cash Grant (PHP3,500)",517,51706,San Miguel,Finished,486,families
+91,IFRC,Relief,Cash,"Multi-Purpose Cash Grant (PHP3,500)",517,51706,Ombao Polpog,Finished,429,families
+92,PRC,Relief,Non-Food Items,Plastic Mat,562,56203,,Finished,31,families
+93,PRC,Relief,Non-Food Items,Clothing,562,56203,,Finished,31,families
+94,PRC,WASH,Non-Food Items,Jerry Can,562,56203,,Finished,31,families
+95,IFRC,Assessment,Assessment,RDANA,562,56203,,Finished,3,areas
+96,IFRC,Relief,Non-Food Items,Sleeping Kit: Blanket,860,86003,Caganahaw,Finished,94,families
+97,IFRC,Relief,Non-Food Items,Sleeping Kit: Mosquito Net,860,86003,Caganahaw,Finished,94,families
+98,IFRC,Relief,Non-Food Items,Sleeping Kit: Plastic Mat,860,86003,Caganahaw,Finished,94,families
+99,IFRC,WASH,Non-Food Items,Hygiene Kits,860,86003,Caganahaw,Finished,94,families
+100,IFRC,WASH,Non-Food Items,Jerry Can,860,86003,Caganahaw,Finished,94,families
+101,IFRC,Relief,Non-Food Items,Sleeping Kit: Blanket,860,86003,San Rufino,Finished,238,families
+102,IFRC,Relief,Non-Food Items,Sleeping Kit: Mosquito Net,860,86003,San Rufino,Finished,238,families
+103,IFRC,Relief,Non-Food Items,Sleeping Kit: Plastic Mat,860,86003,San Rufino,Finished,238,families
+104,IFRC,WASH,Non-Food Items,Hygiene Kits,860,86003,San Rufino,Finished,238,families
+105,IFRC,WASH,Non-Food Items,Jerry Can,860,86003,San Rufino,Finished,238,families
+106,IFRC,Relief,Non-Food Items,Sleeping Kit: Blanket,860,86003,Jose Rono,Finished,116,families
+107,IFRC,Relief,Non-Food Items,Sleeping Kit: Mosquito Net,860,86003,Jose Rono,Finished,116,families
+108,IFRC,Relief,Non-Food Items,Sleeping Kit: Plastic Mat,860,86003,Jose Rono,Finished,116,families
+109,IFRC,WASH,Non-Food Items,Hygiene Kits,860,86003,Jose Rono,Finished,116,families
+110,IFRC,WASH,Non-Food Items,Jerry Can,860,86003,Jose Rono,Finished,116,families
+111,IFRC,Assessment,Assessment,RDANA,860,86003,,Finished,3,areas
+112,PRC,WASH,Non-Food Items,Hygiene Kits,860,86004,Baclayan,Finished,23,families
+113,PRC,WASH,Non-Food Items,Powdered Soap,860,86004,Baclayan,Finished,23,families
+114,IFRC,Assessment,Assessment,RDANA,517,51711,,Finished,3,areas
+115,IFRC,WASH,Non-Food Items,Jerry Can,517,51711,Tawog,Finished,167,families
+116,PRC,Relief,Ready-to-Eat,Bread,517,51711,Tawog,Finished,167,individuals
+117,PRC,Relief,Ready-to-Eat,Water Bottles,517,51711,Tawog,Finished,167,individual
+118,PRC,Relief,Ready-to-Eat,Hotmeals,848,84805,,Finished,1284,individuals
+119,PRC,Health,Welfare,Welfare Desk,848,84805,,Finished,1,station
+120,PRC,Health,Safety,Blood Pressure Taking,848,84805,,Finished,75,individuals
+121,IFRC,Assessment,Assessment,RDANA,848,84805,,Finished,3,areas
+122,IFRC,Relief,Non-Food Items,Clothing,848,84805,,Finished,370,families
+123,PRC,Relief,Ready-to-Eat,Hotmeals,848,84805,Mabini,Finished,700,individuals
+124,PRC,Health,Welfare,PSP,848,84805,Mabini,Finished,60,individuals
+125,PRC,WASH,Hygiene Promotion,Hygiene Promotion,848,84805,Mabini,Finished,30,individuals
+126,PRC,Relief,Food Items,Rice (3kilos),848,84805,Mabini,Finished,370,families
+127,PRC,Health,Safety,First Aid,848,84805,Mabini,Finished,2,individual
+128,PRC,Health,Welfare,PSP,848,84805,Somoge,Finished,106,individuals
+129,PRC,Health,Welfare,PSP,848,84805,Cag-abaca,Finished,94,individuals
+130,PRC,WASH,Water,LMS,848,84805,Macagtas,Finished,1,unit
+131,PRC,WASH,Water,Water,848,84805,Poblacion,Finished,80,families
+132,PRC,Relief,Ready-to-Eat,Hotmeals,848,84805,Mabini,Finished,738,individuals
+133,PRC,Health,Welfare,PSP,848,84805,Mabini,Finished,433,individuals
+134,PRC,WASH,Water,Water,848,84805,Poblacion,Finished,80,families
+135,PRC,WASH,Water,Water,848,84805,Poblacion,Finished,80,families
+136,IFRC,Relief,Cash,"Multi-Purpose Cash Grant (PHP3,500)",848,84805,Cag-abaca,Finished,19,families
+137,IFRC,Relief,Cash,"Multi-Purpose Cash Grant (PHP3,500)",848,84805,Cervantes,Finished,41,families
+138,IFRC,Relief,Cash,"Multi-Purpose Cash Grant (PHP3,500)",848,84805,Somoge,Finished,22,families
+139,IFRC,Relief,Cash,"Multi-Purpose Cash Grant (PHP3,500)",848,84805,Mabini,Finished,129,families
+140,IFRC,Relief,Cash,"Multi-Purpose Cash Grant (PHP3,500)",848,84805,McKinley,Finished,47,families
+141,IFRC,Relief,Cash,"Multi-Purpose Cash Grant (PHP3,500)",848,84805,Polangi,Finished,75,families
+142,PRC,Relief,Food Items,Food Items (Standard),826,82604,San Jose,Finished,50,families
+143,PRC,Relief,Ready-to-Eat,Hotmeals,826,82604,Canjaway,Finished,29,individuals
+144,PRC,Relief,Ready-to-Eat,Hotmeals,826,82604,Siha,Finished,59,individuals
+145,PRC,Relief,Ready-to-Eat,Hotmeals,826,82604,San Mateo,Finished,65,individuals
+146,PRC,Health,Welfare,PSP,562,56216,,Finished,1,individuals
+147,PRC,Health,Welfare,PSP,562,56216,,Finished,3,individuals
+148,PRC,Relief,Ready-to-Eat,Hotmeals,516,51603,,Finished,200,individuals
+149,PRC,Relief,Ready-to-Eat,Hotmeals,516,51603,,Finished,37,individuals
+150,PRC,Relief,Ready-to-Eat,Hotmeals,516,51603,,Finished,218,individuals
+151,PRC,WASH,Hygiene Promotion,Hygiene Promotion,516,51603,,Finished,218,individuals
+152,PRC,Relief,Ready-to-Eat,Hotmeals,516,51603,,Finished,218,individuals
+153,PRC,Relief,Ready-to-Eat,Hotmeals,630,63018,,Finished,600,individuals
+154,PRC,WASH,Water,Water,517,51716,Sagrada,Finished,200,families
+155,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51716,Sagrada,Finished,80,individuals
+156,IFRC,Assessment,Assessment,RDANA,517,51716,,Finished,3,areas
+157,IFRC,Assessment,Assessment,RDANA,516,51606,,Finished,3,areas
+158,PRC,Relief,Ready-to-Eat,Hotmeals,516,51606,,Finished,249,individuals
+159,PRC,Relief,Ready-to-Eat,Hotmeals,516,51606,,Finished,436,individuals
+160,PRC,WASH,Hygiene Promotion,Hygiene Promotion,516,51606,,Finished,249,individuals
+161,PRC,WASH,Hygiene Promotion,Hygiene Promotion,516,51606,,Finished,436,individuals
+162,PRC,Relief,Ready-to-Eat,Hotmeals,516,51606,,Finished,249,individuals
+163,PRC,Relief,Ready-to-Eat,Hotmeals,516,51606,,Finished,436,individuals
+164,PRC,Health,Welfare,PSP,505,50506,San Francisco,Finished,10,individuals
+165,PRC,Relief,Ready-to-Eat,Hotmeals,864,86406,,Finished,150,individuals
+166,IFRC,Assessment,Assessment,RDANA,848,84824,,Finished,3,areas
+167,PRC,Health,Welfare,PSP,848,84824,,Finished,16,individuals
+168,PRC,Health,Welfare,PSP,848,84824,Lower Caynaga,Finished,5,individuals
+169,PRC,Health,Welfare,PSP,848,84824,,Finished,18,individuals
+170,PRC,Health,Welfare,PSP,848,84824,,Finished,98,individuals
+171,PRC,Health,Welfare,PSP,848,84824,Getigo,Finished,2,individuals
+172,PRC,Health,Welfare,PSP,848,84824,Bayho,Finished,4,individuals
+173,PRC,Health,Welfare,PSP,848,84824,Lower Caynaga,Finished,10,individuals
+174,PRC,Health,Welfare,PSP,848,84824,Poblacion,Finished,5,individuals
+175,PRC,Health,Safety,First Aid,848,84824,Osmena,Finished,1,individual
+176,PRC,Health,Welfare,PSP,848,84824,Poblacion,Finished,24,individuals
+177,PRC,Health,Welfare,PSP,848,84824,Osmena,Finished,262,individuals
+178,IFRC,Relief,Cash,"Multi-Purpose Cash Grant (PHP3,500)",848,84824,Sampaguita,Finished,20,families
+179,IFRC,Relief,Cash,"Multi-Purpose Cash Grant (PHP3,500)",848,84824,Curry,Finished,48,families
+180,IFRC,Relief,Cash,"Multi-Purpose Cash Grant (PHP3,500)",848,84824,Osmeña,Finished,49,families
+181,IFRC,Relief,Cash,"Multi-Purpose Cash Grant (PHP3,500)",848,84824,San Jose,Finished,4,families
+182,PRC,Health,Safety,First Aid Station,562,56212,,Finished,1,station
+183,PRC,Health,Welfare,Welfare Desk,562,56212,,Finished,1,station
+184,PRC,Relief,Ready-to-Eat,Hotmeals,562,56212,,Finished,518,individuals
+185,PRC,Health,Welfare,PSP,562,56212,,Finished,145,individuals
+186,PRC,Health,Safety,Blood Pressure Taking,562,56212,,Finished,201,individuals
+187,IFRC,Assessment,Assessment,RDANA,562,56212,,Finished,3,areas
+188,PRC,WASH,Water,Water,517,51721,Poblacion,Finished,126,families
+189,IFRC,Assessment,Assessment,RDANA,517,51721,,Finished,3,areas
+190,PRC,WASH,Water,Water,517,51721,San Jose,Finished,70,families
+191,PRC,WASH,Water,Water,517,51721,Balagbag,Finished,156,families
+192,PRC,WASH,Water,Water,517,51721,Flordeliz,Finished,52,families
+193,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51721,Balagbag,Finished,30,individuals
+194,PRC,WASH,Water,Water,517,51721,Balagbag,Finished,60,families
+195,PRC,WASH,Water,Water,517,51722,San Felipe,Finished,105,families
+196,PRC,WASH,Water,Water,517,51722,Del Rosario,Finished,116,families
+197,IFRC,Assessment,Assessment,RDANA,517,51722,,Finished,3,areas
+198,PRC,WASH,Water,Water,517,51722,Del Rosario,Finished,160,families
+199,PRC,WASH,Water,Water,517,51722,San Francisco,Finished,35,families
+200,PRC,WASH,Water,Water,517,51722,Del Carmen,Finished,110,families
+201,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51722,Del Carmen,Finished,58,individuals
+202,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51722,San Francisco,Finished,38,individuals
+203,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51722,Del Rosario,Finished,54,individuals
+204,PRC,WASH,Water,Water,517,51722,San Juan,Finished,118,families
+205,PRC,WASH,Water,Water,517,51722,San Lorenzo,Finished,45,families
+206,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51722,San Juan,Finished,40,individuals
+207,IFRC,Relief,Cash,"Multi-Purpose Cash Grant (PHP3,500)",848,84813,Cahicsan,Finished,26,families
+208,IFRC,Relief,Cash,"Multi-Purpose Cash Grant (PHP3,500)",848,84813,San Antonio,Finished,16,families
+209,IFRC,Relief,Cash,"Multi-Purpose Cash Grant (PHP3,500)",848,84813,San Isidro,Finished,35,families
+210,IFRC,Relief,Cash,"Multi-Purpose Cash Grant (PHP3,500)",848,84813,Nenita,Finished,40,families
+211,PRC,Relief,Food Items,Food Items (Standard),517,51723,Sta Barbara,Finished,100,families
+212,PRC,WASH,Water,Water,517,51723,Sta.Barbara,Finished,227,families
+213,PRC,Relief,Food Items,Food Items (Standard),517,51723,San Isidro,Finished,50,families
+214,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51723,Sta. Barbara,Finished,50,individuals
+215,PRC,WASH,Water,Water,517,51723,San Jose,Finished,200,families
+216,PRC,WASH,Water,Water,517,51723,Bustrac,Finished,245,families
+217,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51723,San Jose,Finished,183,individuals
+218,PRC,Health,Health,Health Promotion,517,51723,,Finished,740,individual
+219,IFRC,Assessment,Assessment,RDANA,517,51723,,Finished,3,areas
+220,PRC,WASH,Water,Water,517,51723,La Purisima,Finished,504,families
+221,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51723,La Purisima,Finished,50,individuals
+222,PRC,WASH,Water,Water,517,51723,La Purisima,Finished,504,families
+223,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51723,La Purisima,Finished,40,individuals
+224,PRC,WASH,Water,Water,517,51723,La Purisima,Finished,72,families
+225,PRC,WASH,Water,Water,517,51723,Brgy. San Roque Madawon,Finished,204,families
+226,PRC,WASH,Water,Water,517,51723,San Isidro,Finished,30,families
+227,PRC,WASH,Water,Water,517,51723,Del Rosario,Finished,35,families
+228,PRC,WASH,Water,Water,517,51723,Brgy. Sta. Barbara,Finished,325,families
+229,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51723,San Sebastian,Finished,90,individuals
+230,PRC,WASH,Water,Water,517,51723,Sta. Barbara,Finished,227,families
+231,PRC,WASH,Water,Water,517,51723,San Esteban,Finished,307,families
+232,PRC,WASH,Water,Water,517,51723,San Vicente,Finished,90,families
+233,PRC,WASH,Water,Water,517,51723,Sto. Domingo,Finished,42,families
+234,PRC,WASH,Water,Water,517,51723,La Purisima,Finished,58,families
+235,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51723,San Vicente,Finished,35,individuals
+236,PRC,WASH,Water,Water,517,51723,San Roque,Finished,204,families
+237,PRC,WASH,Water,Water,517,51723,San Antonio,Finished,97,families
+238,PRC,WASH,Water,Water,517,51723,Sta. Cruz,Finished,210,families
+239,PRC,WASH,Water,Water,517,51723,Sta. Barbara,Finished,325,families
+240,PRC,WASH,Water,Water,517,51723,San Esteban,Finished,307,families
+241,PRC,WASH,Water,Water,517,51723,San Antonio,Finished,97,families
+242,PRC,WASH,Water,Water,517,51723,San Vicente,Finished,90,families
+243,PRC,WASH,Water,Water,517,51723,San Antonio,Finished,97,families
+244,PRC,WASH,Water,Water,517,51723,La Purisima,Finished,58,families
+245,PRC,WASH,Water,Water,517,51723,La Purisima,Finished,72,families
+246,PRC,WASH,Water,Water,517,51723,San Isidro,Finished,30,families
+247,PRC,WASH,Hygiene Promotion,Hygiene Promotion,517,51723,San Isidro,Finished,60,individuals
+248,PRC,WASH,Water,Water,517,51723,Sta. Barbara,Finished,227,families
+249,PRC,Relief,Non-Food Items,Clothing,517,51723,San Roque,Finished,150,families
+250,PRC,WASH,Non-Food Items,Hygiene kits,517,51723,San Roque,Finished,150,families
+251,PRC,Relief,Ready-to-Eat,Water Bottles,517,51723,San Roque,Finished,150,individual
+252,PRC,WASH,Water,Water,517,51723,Sta. Barbara,Finished,227,families
+253,PRC,WASH,Water,Water,517,51723,San Esteban,Finished,,families
+254,IFRC,Relief,Cash,"Multi-Purpose Cash Grant (PHP3,500)",517,51723,San Roque Madawon,Finished,145,families
+255,PRC,Relief,Ready-to-Eat,Hotmeals,837,83738,,Finished,40,individuals
+256,PRC,Relief,Ready-to-Eat,Hotmeals,517,51727,,Finished,393,individuals
+257,PRC,Health,Safety,First Aid Station,517,51727,,Finished,1,station
+258,PRC,Health,Welfare,Welfare Desk,517,51727,,Finished,1,station
+259,PRC,Relief,Ready-to-Eat,Hotmeals,517,51727,,Finished,76,individuals
+260,PRC,Health,Welfare,PSP,517,51731,Patitinan,Finished,2,individuals
+261,PRC,Health,Safety,First Aid Station,517,51731,,Finished,1,station
+262,PRC,Health,Welfare,PSP,517,51731,Patitinan,Finished,25,individuals
+263,PRC,Health,Welfare,Play Therapy,517,51731,Patitinan,Finished,13,individuals
+264,PRC,Health,Safety,First Aid,517,51731,Patitinan,Finished,4,individual
+265,PRC,Health,Safety,Blood Pressure Taking,517,51731,Patitinan,Finished,4,individuals
+266,PRC,Health,Safety,Ambulance Transport,517,51731,Patitinan,Finished,1,individuals
+267,PRC,Relief,Food Items,Food Items (Standard),517,51731,Patitinan,Finished,153,families
+268,IFRC,WASH,Non-Food Items,Hygiene Kits,517,51731,Patitinan,Finished,158,families
+269,IFRC,WASH,Non-Food Items,Jerry Can,517,51731,Patitinan,Finished,153,families
+270,IFRC,Relief,Non-Food Items,Sleeping Kit: Plastic Mat,517,51731,Patitinan,Finished,153,families
+271,PRC,WASH,Water,Water,517,51731,Patitinan,Finished,150,families
+272,PRC,Health,Welfare,PSP,517,51731,Patitinan,Finished,3,individuals
+273,PRC,Health,Safety,Ambulance Transport,517,51731,Patitinan,Finished,1,individuals
+274,IFRC,Relief,Non-Food Items,Sleeping Kit: Blanket,517,51731,Patitinan,Finished,153,families
+275,IFRC,Relief,Non-Food Items,Sleeping Kit: Mosquito Net,517,51731,Patitinan,Finished,153,families
+276,IFRC,Assessment,Assessment,RDANA,517,51731,,Finished,3,areas
+277,PRC,SRR,MDM,SRR,517,51731,Patitinan,Finished,,
+278,PRC,Relief,Ready-to-Eat,Hotmeals,848,84818,,Finished,225,individuals
+279,PRC,Relief,Ready-to-Eat,Hotmeals,722,72243,Hagnaya,Finished,900,individuals
+280,PRC,Health,Safety,First Aid Station,722,72243,Hagnaya,Finished,1,station
+281,PRC,Health,Welfare,Welfare Desk,722,72243,Hagnaya,Finished,1,station
+282,PRC,Health,Welfare,PSP,722,72243,Hagnaya,Finished,7,individuals
+283,PRC,Health,Safety,Blood Pressure Taking,722,72243,Hagnaya,Finished,22,individuals
+284,PRC,Relief,Ready-to-Eat,Hotmeals,864,86415,,Finished,190,individuals
+285,PRC,Health,Safety,First Aid,1667,166724,,Finished,1,individual
+286,PRC,Health,Safety,First Aid Station,1667,166724,,Finished,1,station
+287,PRC,Health,Welfare,Welfare Desk,1667,166724,,Finished,1,station
+288,PRC,Health,Safety,Blood Pressure Taking,1667,166724,,Finished,15,individuals
+289,PRC,Health,Safety,First Aid,1667,166724,,Finished,1,individual
+290,PRC,Relief,Ready-to-Eat,Hotmeals,1667,166724,,Finished,134,individuals
+291,PRC,Relief,Ready-to-Eat,Hotmeals,1667,166724,,Finished,20,individuals
+292,PRC,SRR,MDM,Body Bags,505,50518,,Finished,10,pcs
+293,PRC,Health,Welfare,PSP,505,50518,Bariis,Finished,9,individuals
+294,PRC,Health,Safety,First Aid,505,50518,Naga,Finished,3,individual
+295,PRC,Health,Safety,Ambulance Transport,505,50518,Mayong,Finished,1,individuals
+296,PRC,Health,Safety,Ambulance Transport,505,50518,Maynonong,Finished,1,individuals
+297,PRC,Health,Welfare,PSP,505,50518,Bariis,Finished,7,individuals
+298,PRC,Health,Safety,First Aid,505,50518,Bariis,Finished,2,individual
+299,IFRC,Assessment,Assessment,RDANA,505,50518,Bariis,Finished,3,areas
+300,PRC,Health,Welfare,PSP,505,50518,Maynonong,Finished,16,individuals
+301,PRC,Health,Health,Doxycyclines,505,50518,Bariis,Finished,82,individual
+302,PRC,Health,Safety,First Aid,505,50518,Maynonong,Finished,8,individual
+303,IFRC,Assessment,Assessment,RDANA,505,50518,Sogod,Finished,1,area
+304,PRC,Health,Safety,First Aid Station,505,50518,Maynonong,Finished,1,station
+305,PRC,Health,Safety,First Aid Station,505,50518,Biriis,Finished,1,station
+306,PRC,Health,Welfare,Welfare Desk,505,50518,,Finished,1,station
+307,PRC,SRR,MDM,Retrieved,505,50518,,Finished,11,individual
+308,PRC,SRR,MDM,Body Bags,505,50518,,Finished,10,individual
+309,PRC,Health,Welfare,PSP,505,50518,Sugod,Finished,32,individuals
+310,PRC,Relief,Ready-to-Eat,Hotmeals,505,50518,,Finished,90,individuals
+311,PRC,Relief,Ready-to-Eat,Bread,505,50518,,Finished,1365,individuals
+312,PRC,Relief,Ready-to-Eat,Bread,505,50518,Bariis,Finished,1390,individuals
+313,PRC,Relief,Ready-to-Eat,Cup Noodles,505,50518,,Finished,73,families
+314,PRC,Health,Welfare,PSP,505,50518,,Finished,8,individuals
+315,PRC,Health,Welfare,PSP,505,50518,Bariis,Finished,7,individuals
+316,PRC,Relief,Non-Food Items,Dental kit,505,50518,,Finished,73,families
+317,IFRC,Relief,Non-Food Items,Sleeping Kit: Plastic Mat,505,50518,Naga ,Finished,213,families
+318,IFRC,WASH,Non-Food Items,Jerry Can,505,50518,Naga ,Finished,213,families
+319,IFRC,WASH,Non-Food Items,Hygiene Kits,505,50518,Naga ,Finished,213,families
+320,IFRC,Relief,Non-Food Items,Sleeping Kit: Blanket,505,50518,Naga ,Finished,213,families
+321,IFRC,Relief,Non-Food Items,Sleeping Kit: Mosquito Net,505,50518,Naga ,Finished,213,families
+322,PRC,Health,Welfare,PSP,505,50518,,Finished,14,individuals
+323,IFRC,Assessment,Assessment,RDANA,505,50518,Joroan,Finished,1,area
+324,IFRC,Assessment,Assessment,RDANA,505,50518,Lourdes,Finished,1,area
+325,IFRC,Assessment,Assessment,RDANA,505,50518,Maynonong,Finished,3,areas
+326,PRC,WASH,Water,Water,505,50518,Sogod,Finished,282,families
+327,PRC,WASH,Water,Water,505,50518,Naga,Finished,510,families
+328,PRC,WASH,Water,Water,505,50518,Sogod,Finished,282,families
+329,PRC,WASH,Water,Water,505,50518,Naga,Finished,510,families
+330,PRC,WASH,Water,Water,505,50518,Naga,Finished,141,families
+331,PRC,WASH,Water,Water,505,50518,Cararayan,Finished,44,families
+332,PRC,Health,Welfare,PSP,505,50518,Naga,Finished,5,individuals
+333,IFRC,WASH,Non-Food Items,Hygiene Kits,505,50518,Bariis,Finished,258,families
+334,IFRC,WASH,Non-Food Items,Hygiene Kits,505,50518,Sogod,Finished,28,families
+335,IFRC,WASH,Non-Food Items,Jerry Can,505,50518,Bariis,Finished,258,families
+336,IFRC,WASH,Non-Food Items,Jerry Can,505,50518,Sogod,Finished,28,families
+337,IFRC,Relief,Non-Food Items,Sleeping Kit: Plastic Mat,505,50518,Bariis,Finished,258,families
+338,IFRC,Relief,Non-Food Items,Sleeping Kit: Blanket,505,50518,Bariis,Finished,258,families
+339,IFRC,Relief,Non-Food Items,Sleeping Kit: Mosquito Net,505,50518,Bariis,Finished,258,families
+340,IFRC,Relief,Non-Food Items,Sleeping Kit: Plastic Mat,505,50518,Sogod,Finished,28,families
+341,IFRC,Relief,Non-Food Items,Sleeping Kit: Blanket,505,50518,Sogod,Finished,28,families
+342,IFRC,Relief,Non-Food Items,Sleeping Kit: Mosquito Net,505,50518,Sogod,Finished,28,families
+343,PRC,WASH,Water,Water,505,50518,Joroan,Finished,343,families
+344,PRC,WASH,Water,Water,505,50518,Joroan,Finished,343,families
+345,PRC,WASH,Water,Water,505,50518,Dapdap,Finished,282,families
+346,PRC,WASH,Water,Water,505,50518,Misibis,Finished,510,families
+347,PRC,WASH,Water,Water,505,50518,Cale,Finished,37,families
+348,PRC,WASH,Water,Water,505,50518,Misibis,Finished,510,families
+349,PRC,WASH,Water,Water,505,50518,Naga,Finished,216,families
+350,PRC,WASH,Water,Water,505,50518,Naga,Finished,111,families
+351,PRC,WASH,Water,Water,505,50518,Naga,Finished,57,families
+352,PRC,WASH,Water,Water,505,50518,Cararayan,Finished,57,families
+353,PRC,WASH,Water,Water,505,50518,Misibis,Finished,510,families
+354,PRC,WASH,Water,Water,505,50518,Naga,Finished,151,families
+355,PRC,WASH,Water,Water,505,50518,Cararayan,Finished,49,families
+356,PRC,WASH,Water,Water,505,50518,Misibis,Finished,300,families
+357,PRC,WASH,Water,Water,505,50518,Cararayan,Finished,44,families
+358,PRC,WASH,Water,Water,505,50518,Misibis,Finished,300,families
+359,PRC,WASH,Water,Water,505,50518,Naga,Finished,151,families
+360,PRC,WASH,Water,Water,505,50518,Cararayan,Finished,49,families
+361,PRC,WASH,Water,Water,505,50518,Cale,Finished,39,families
+362,PRC,WASH,Water,Water,505,50518,Naga,Finished,151,families
+363,PRC,WASH,Water,Water,505,50518,Cararayan,Finished,49,families
+364,PRC,WASH,Water,Water,505,50518,Cale,Finished,39,families
+365,PRC,WASH,Hygiene Promotion,Hygiene Promotion,505,50518,Naga,Finished,80,individuals
+366,PRC,WASH,Hygiene Promotion,Hygiene Promotion,505,50518,Cale,Finished,60,individuals
+367,PRC,Relief,Food Items,Food Items (Standard),505,50518,Maynonong,Finished,38,families
+368,PRC,Relief,Food Items,Food Items (Standard),505,50518,Maynonong,Finished,151,families
+369,PRC,WASH,Hygiene Promotion,Hygiene Promotion,505,50518,Naga,Finished,60,individuals
+370,PRC,WASH,Water,Water,505,50518,,Finished,39,families
+371,PRC,WASH,Water,Water,505,50518,Cararayan,Finished,49,families
+372,PRC,WASH,Water,Water,505,50518,Cale,Finished,150,families
+373,PRC,WASH,Water,Water,505,50518,Baybay,Finished,160,families
+374,PRC,WASH,Water,Water,505,50518,Naga,Finished,151,families
+375,PRC,WASH,Water,Water,505,50518,Panal,Finished,90,families
+376,PRC,WASH,Water,Water,505,50518,Cararayan,Finished,49,families
+377,PRC,WASH,Water,Water,505,50518,,Finished,39,families
+378,PRC,WASH,Water,Water,505,50518,Bagumbayan,Finished,85,families
+379,PRC,WASH,Water,Water,505,50518,Cararayan,Finished,49,families
+380,PRC,WASH,Water,Water,505,50518,,Finished,39,families
+381,PRC,WASH,Water,Water,505,50518,Naga,Finished,151,families
+382,PRC,WASH,Water,Water,505,50518,Cale,Finished,100,families
+383,PRC,WASH,Water,Water,505,50518,Bagumbayan,Finished,100,families
+384,PRC,Health,Health,Training,505,50518,,Finished,31,individuals
+385,IFRC,Relief,Cash,"Multi-Purpose Cash Grant (PHP3,500)",505,50518,Dapdap,Finished,293,families
+386,PRC,Relief,Ready-to-Eat,Hotmeals,516,51612,,Finished,365,individuals
+387,PRC,WASH,Hygiene Promotion,Hygiene Promotion,516,51612,,Finished,365,individuals
+388,PRC,Relief,Ready-to-Eat,Hotmeals,516,51612,,Finished,365,individuals
+389,IFRC,WASH,Non-Food Items,Hygiene Kits,516,51612,Gumamela,Finished,65,families
+390,IFRC,WASH,Non-Food Items,Hygiene Kits,516,51612,Fundado,Finished,65,families
+391,IFRC,WASH,Non-Food Items,Hygiene Kits,516,51612,San Antonio,Finished,65,families
+392,IFRC,WASH,Non-Food Items,Hygiene Kits,516,51612,Singi,Finished,55,families
+393,PRC,Health,Health,Doxycyclines,505,,,Finished,800,pcs
+394,PRC,SRR,MDM,Body Bags,505,,,Finished,10,pcs
+395,PRC,Health,Health,Doxycyclines,516,,,Finished,800,pcs
+396,PRC,SRR,MDM,Body Bags,516,,,Finished,10,pcs
+397,PRC,Health,Health,Doxycyclines,516,,,Finished,108,individual
+398,PRC,Health,Health,Doxycyclines,516,,,Finished,28,individual
+399,PRC,Health,Health,Doxycyclines,517,,,Finished,800,pcs
+400,PRC,SRR,MDM,Body Bags,517,,,Finished,10,pcs
+401,PRC,Health,Safety,First Aid,517,,,Finished,3,individual
+402,PRC,SRR,MDM,Body Bags,517,,,Finished,6,individual
+403,PRC,Relief,Ready-to-Eat,Hotmeals,517,,,Finished,59,individuals
+404,PRC,Health,Health,Doxycyclines,517,,,Finished,,individual
+406,PRC,Health,Safety,Blood Pressure Taking,848,,,Finished,40,individuals
+408,PRC,Health,Safety,First Aid Station,1759,,,Finished,1,station
+409,PRC,Health,Welfare,Welfare Desk,1759,,,Finished,1,station
+410,PRC,Health,Safety,First Aid Station,864,,,Finished,1,station
+411,PRC,Health,Welfare,Welfare Desk,864,,,Finished,1,station
+412,PRC,Health,Safety,Blood Pressure Taking,864,,,Finished,28,individuals
